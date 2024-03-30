@@ -5,7 +5,7 @@
 Projeto WebService com CRUD (Create, Read, Update e Delete) desenvolvido com Java Spring Boot e utilizando padrão JPA para persistencia de dados.
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/LeonardoMattioli/assets/tree/main/workshop-springboot3/modeloConceitual.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/LeonardoMattioli/assets/main/workshop-springboot3/modeloConceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
